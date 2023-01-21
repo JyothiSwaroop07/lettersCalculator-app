@@ -22,4 +22,4 @@ These are the files used to complete the implementation:
 
 The following link can be used to view the application:
 
-    https://vjslettercalc.ccbp.tech
+<a href="https://vjslettercalc.ccbp.tech">Open App</a>
